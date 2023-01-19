@@ -8,3 +8,6 @@
 - The program takes in to account of leap years( since february can be either 28 or 29 depending on the year).
 - Users can also view monthly or yearly cost of each item and the total monthly or yearly cost in the console. 
 - There is also a feature for users to perform basic arithmetic operations(+, -, *, /, %) and a few basic operations(square root, square, cube).
+
+
+License: The repository is licensed under the MIT License.

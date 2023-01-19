@@ -1,12 +1,3 @@
-/*
-Team 4, section 13
-1. Dina Mohammednur Seid UGR/26420/14
-2. Tolawak Badasa Birasa UGR/26107/14
-3. Estifanose Sahilu Kassaye UGR/25427/14
-4. Nebil Esmael Suliyman UGR/25496/14
-5. Jitunus Habte Shuma UGR/25636/14
-*/
-
 #include <iostream>
 #include <bits/stdc++.h>
 #include <fstream>
